@@ -40,8 +40,8 @@ The server runs on port 3000
 ```
 
 ## Screenshots
-![image]()
-![image]()
+![image](https://github.com/Xavier-Hsiao/restaurant-forum/blob/master/public/image/restaurant_forum_1.png)
+![image](https://github.com/Xavier-Hsiao/restaurant-forum/blob/master/public/image/restaurant_forum_3.png)
 
 ## Toolkit
 
